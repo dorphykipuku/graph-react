@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/graph-react/static/css/main.e8d2014c.css",
+    "main.js": "/graph-react/static/js/main.f2d157a9.js",
+    "static/js/787.c6d9e1ab.chunk.js": "/graph-react/static/js/787.c6d9e1ab.chunk.js",
+    "static/media/a.jpg": "/graph-react/static/media/a.de3ba5c046f95f044e16.jpg",
+    "static/media/p.jpg": "/graph-react/static/media/p.e7b741573138ed5af7b6.jpg",
+    "index.html": "/graph-react/index.html",
+    "main.e8d2014c.css.map": "/graph-react/static/css/main.e8d2014c.css.map",
+    "main.f2d157a9.js.map": "/graph-react/static/js/main.f2d157a9.js.map",
+    "787.c6d9e1ab.chunk.js.map": "/graph-react/static/js/787.c6d9e1ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d2014c.css",
+    "static/js/main.f2d157a9.js"
+  ]
+}
