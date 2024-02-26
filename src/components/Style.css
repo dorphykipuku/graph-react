@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('/public/a.jpg') center/cover fixed no-repeat;
+    filter: blur(0px); /* Ajustez la valeur pour définir le niveau de flou souhaité */
+    height: 100vh; /* Cela garantit que l'image de fond occupe toute la hauteur de la vue */
+  }
